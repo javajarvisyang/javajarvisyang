@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @javajarvisyang
+- 👀 I’m interested in Design Patterns, OOP Programming
+- 🌱 I’m currently learning Machine/Deep Learning
+- 💞️ I’m looking to collaborate on AI
+- 📫 contact me by javayoung@gmail.com
